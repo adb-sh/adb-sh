@@ -2,9 +2,7 @@
 WebDev/DevOps Engineer
 
 <div>
-  <a href="https://github.com/adb-sh">
-    <img src="./octocat-1702549996446.png" height="200px" style="max-width:100%;">
-  </a>
+  <img src="./octocat-1702549996446.png" height="200px" style="max-width:100%;">
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adb-sh&layout=compact&theme=github_dark" alt="Albans GitHub top languages" />
 </div>
 
