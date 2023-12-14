@@ -2,18 +2,18 @@
 WebDev/DevOps Engineer
 
 <div>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adb-sh&layout=compact" alt="Albans GitHub top languages" />
   <a href="https://github.com/adb-sh">
-    <img src="./octocat-1702549996446.png" height="160px" style="max-width:100%;">
+    <img src="./octocat-1702549996446.png" height="200px" style="max-width:100%;">
   </a>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adb-sh&layout=compact&theme=github_dark" alt="Albans GitHub top languages" />
 </div>
 
-## :smile: about me
+## :smile: About me
 - studying Applied Informatics in North of Germany
 - working at [Zenner IOT](https://zenner-iot.com/)
 - volunteering at [DD-IX - Dresden Internet Exchange](https://dd-ix.net/)
 
-### My Tech Stack
+### :rocket: My Tech Stack
 #### WebDev
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -52,13 +52,13 @@ WebDev/DevOps Engineer
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## :mailbox_with_mail: contact me
+## :mailbox_with_mail: Contact me
 
 - Matrix: [@adb:adb.sh](https://matrix.to/#/@adb:adb.sh)
 - Mail: info [at] adb.sh
 
 
-## :coffee: buy me a coffee ^-^
+## :coffee: Buy me a coffee ^-^
 
 - Liberapay: [liberapay/adb.sh](https://liberapay.com/adb.sh)
 - Bitcoin: [BC1QGP24D6GKPM4TEZ4ZRT3KZGKHYUJQUV68PTAXKQ](bitcoin:BC1QGP24D6GKPM4TEZ4ZRT3KZGKHYUJQUV68PTAXKQ)
